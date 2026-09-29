@@ -1,5 +1,9 @@
 # 📊 PROJETO APLICADO IV - Ciências de Dados - 2026.2 - 201825168.000.05A
 
+![Mackenzie Banner](https://img.shields.io/badge/Universidade-Presbiteriana%20Mackenzie-red)
+![Curso](https://img.shields.io/badge/Curso-Ci%C3%AAncia%20de%20Dados-blue)
+![Etapa](https://img.shields.io/badge/Etapa-2%20(Conclu%C3%ADda)-brightgreen)
+
 ## 🔋Previsão da Demanda Diária de Carga Elétrica no Brasil para Suporte ao Planejamento Energético e Sustentabilidade
 
 ## 👥 Grupo 13
