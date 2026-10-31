@@ -34,7 +34,7 @@ O projeto vincula-se aos ODS estabelecidos para o semestre 2026/02:
 
 | Etapa / Sprint | Descrição do Entregável | Data Limite | Status |
 | :--- | :--- | :--- | :--- |
-| *Etapa 1* | Definição do Projeto, Equipe e Escolha da Base ONS | 31/08/2026 | Concluído |
+| *Etapa 1* | Definição do Projeto, Equipe e Escolha da Base ONS | 31/08/2026 | *Concluído* |
 | *Etapa 2* | Referencial Teórico, Cronograma de Sprints e EDA Preliminar | 28/09/2026 | *Concluído* |
-| *Etapa 3* | Implementação Parcial e Seleção dos Modelos (SARIMA / Espaço de Estados) | 26/10/2026 | A Iniciar |
+| *Etapa 3* | Implementação Parcial e Seleção dos Modelos (SARIMA / Espaço de Estados) | 26/10/2026 | *Concluído* |
 | *Etapa 4* | Comparação dos Modelos, Avaliação de Métricas e Entrega Final | 30/11/2026 | Planejado |
